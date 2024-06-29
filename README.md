@@ -12,14 +12,8 @@ pkg install git
 ```
 > [ RUN SCRIPT ]
 ```python
-git clone https://github.com/Xenz-11/sms
+git clone https://github.com/saifulabidin/sms
 cd sms
 git pull
 python sms.py
 ```
- • WhatsApp [klik](https://wa.me/6283138613993)
-
- • Facebook [klik](https://www.facebook.com/inu.pembangkang.7)
-
- • Instagram [klik](https://www.instagram.com/xenz_why)
-![SS](https://github.com/Xenz-11/sms/blob/main/SS/Screenshot_20220519-185250-picsay.jpg)
